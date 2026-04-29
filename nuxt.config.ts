@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     preset: 'github_pages'
   },
   app: {
-    baseURL: '/nuxt-app/' // Replace with your repository name
+    baseURL: '/nuxt-app/'
   },
   devtools: { enabled: true }
 })
